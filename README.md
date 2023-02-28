@@ -1,9 +1,9 @@
-# Criando Projeto para Consultar a Previsão do Tempo via API
+# Projeto Consultar Previsão do Tempo via API
 
 
 ## Descrição
 
-Neste Labs o objetivo é evoluir mais ainda seus conhecimentos em Angular e desenvolvimento Web criando na prática um aplicativo de previsão do tempo utilizando Angular como tecnologia front-end cosumindo uma API externa, seu desafio será replicar esse essa aplicação utilizando angular e consumindo essa api de terceiros. (Front-End Intermediário)
+Criando Projeto para Consultar a Previsão do Tempo via API. Neste Labs o objetivo é evoluir mais ainda seus conhecimentos em Angular e desenvolvimento Web criando na prática um aplicativo de previsão do tempo utilizando Angular como tecnologia front-end cosumindo uma API externa, seu desafio será replicar esse essa aplicação utilizando angular e consumindo essa api de terceiros. (Front-End Intermediário)
 Angular | Git
 
 <div style="display: inline_block"><br>
